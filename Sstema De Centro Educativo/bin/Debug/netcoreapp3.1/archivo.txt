@@ -1,0 +1,45 @@
+-----------CLON SUPERFICIAL--------------
+DATOS ORIGINALES
+ Nombre: Natiely
+ Apellido: Lara
+ Curso Alumnos: Tercero de bachiller
+
+DATOS FALSOS
+ Nombre: Natiely
+ Apellido: Lara
+ Curso Alumnos: Tercero de bachiller
+
+DATOS FALSOS 0.1
+ Nombre: Natiely
+ Apellido: Lara
+ Curso Alumnos: Tercero de bachiller
+
+DATOS FALSOS 0.2
+ Nombre: Natiely
+ Apellido: Lara
+ Curso Alumnos: Tercero de bachiller
+
+-----------CLON PROFUNDO--------------
+ALUMNO ORIGINAL:  Alvaro
+ALUMNO CLONADO: 80956235
+ALUMNO ORIGINAL:  Alaia
+ALUMNO CLONADO: Yael
+ALUMNO ORIGINAL:  829265
+ALUMNO CLONADO: Primero
+ALUMNO ORIGINAL:  Quinto cuatrimestre
+
+ALUMNO ORIGINAL:  Alvaro
+ALUMNO CLONADO: 5555555
+ALUMNO ORIGINAL:  Alaia
+ALUMNO CLONADO: Elian
+ALUMNO ORIGINAL:  829265
+ALUMNO CLONADO: Bachiller
+ALUMNO ORIGINAL:  Quinto cuatrimestre
+
+ALUMNO ORIGINAL:  Alvaro
+ALUMNO CLONADO: 232323
+ALUMNO ORIGINAL:  Alaia
+ALUMNO CLONADO: Nicolas
+ALUMNO ORIGINAL:  829265
+ALUMNO CLONADO: Primaria
+ALUMNO ORIGINAL:  Quinto cuatrimestre

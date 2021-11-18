@@ -1,0 +1,13 @@
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\obj\Debug\netcoreapp3.1\Sstema De Centro Educativo.csprojAssemblyReference.cache
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\obj\Debug\netcoreapp3.1\Sstema De Centro Educativo.AssemblyInfoInputs.cache
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\obj\Debug\netcoreapp3.1\Sstema De Centro Educativo.AssemblyInfo.cs
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\obj\Debug\netcoreapp3.1\Sstema De Centro Educativo.csproj.CoreCompileInputs.cache
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\bin\Debug\netcoreapp3.1\Sstema De Centro Educativo.exe
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\bin\Debug\netcoreapp3.1\Sstema De Centro Educativo.deps.json
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\bin\Debug\netcoreapp3.1\Sstema De Centro Educativo.runtimeconfig.json
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\bin\Debug\netcoreapp3.1\Sstema De Centro Educativo.runtimeconfig.dev.json
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\bin\Debug\netcoreapp3.1\Sstema De Centro Educativo.dll
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\bin\Debug\netcoreapp3.1\Sstema De Centro Educativo.pdb
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\obj\Debug\netcoreapp3.1\Sstema De Centro Educativo.dll
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\obj\Debug\netcoreapp3.1\Sstema De Centro Educativo.pdb
+C:\Users\Las mellas\source\repos\Sstema De Centro Educativo\Sstema De Centro Educativo\obj\Debug\netcoreapp3.1\Sstema De Centro Educativo.genruntimeconfig.cache

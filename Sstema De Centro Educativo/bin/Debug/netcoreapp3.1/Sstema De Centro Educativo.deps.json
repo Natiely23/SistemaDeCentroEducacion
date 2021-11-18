@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sstema De Centro Educativo/1.0.0": {
+        "runtime": {
+          "Sstema De Centro Educativo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sstema De Centro Educativo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
